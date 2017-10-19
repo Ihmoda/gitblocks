@@ -1,0 +1,161 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-famiy: arial, sans-serif;
+}
+
+#container {
+    width: 970px;
+    background: #dddfd4;
+    height: auto;
+    overflow: hidden;
+    padding: 10px;
+}
+
+#header {
+    width: 940px;
+    height: 60px;
+    background: #38b0ad;
+    margin: 15 auto;
+    position: inline-block;
+}
+
+img {
+    height: 50px;
+    display: inline-block;
+    margin: 5px 5px;
+}
+
+h1 {
+    font-size: 32px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    margin-right:110px;
+}
+
+h2 {
+    color: white;
+    text-decoration: underline;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+h3 {
+    color: white;
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+h4 {
+    color: white;
+    font-size: 18px;
+    margin: 10px 10px;
+}
+
+p {
+    color: white;
+    font-size: 15px;
+    margin: 15px;
+}
+
+span {
+    color: #38b0ad;
+}
+
+#footer p {
+    color: black;
+    margin-top: 20px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+span a {
+    color: blue;
+    text-decoration: underline;
+}
+
+#footer {
+    width: 940px;
+    height: 70px;
+    background: #38b0ad;
+    margin: 15 auto;
+    position: inline-block;
+    text-align: center;
+}
+
+#middle {
+    width: 940px;
+    height: 550px;
+    background: #fbe691;
+    margin: 15px auto;
+    display: inline-block;
+}
+
+#sidebar {
+    width: 250px;
+    height: 520px;
+    background: #153f43;
+    display: inline-block;
+    margin: 15px 15px;
+    text-align: left;
+}
+
+.inline {
+    display: inline-block;
+    width: 180px;
+    height: 160px;
+    background: #153f43;
+    vertical-align: top;
+    margin: 15px 30px 15px 0px;
+}
+
+.inline2 {
+    display: inline-block;
+    width: 180px;
+    height: 160px;
+    background: #153f43;
+    vertical-align: top;
+    margin: 15px 0px 0px 0px;
+}
+
+
+.inlinemed {
+    display: inline-block;
+    width: 285px;
+    height: 150px;
+    background: #153f43;
+    vertical-align: top;
+    margin: 15px 34px 15px 0px;
+}
+
+.inlinemed2 {
+    display: inline-block;
+    width: 285px;
+    height: 150px;
+    background: #153f43;
+    vertical-align: top;
+    margin: 15px 0px 15px 0px;
+}
+
+.inlinelarge {
+    display: inline-block;
+    width: 608px;
+    height: 150px;
+    background: #153f43;
+    vertical-align: top;
+    margin: 15px 0px 0px 0px;
+}
+
+#rightcontainer {
+    display: inline-block;
+    text-align: middle;
+    width: 640px;
+    height: 550px;
+    background: #fbe691;
+    vertical-align: top;
+    margin: 0px 0px 0px 15px;
+}
